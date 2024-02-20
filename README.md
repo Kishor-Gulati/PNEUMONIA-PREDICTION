@@ -13,6 +13,18 @@ This repository contains a machine learning project focused on predicting pneumo
 
 ## Getting Started
 
+### Note on Interactive Features
+
+Please be aware that certain interactive features, such as the Gradio demo and clickable index, may not function as intended when viewing this project directly on GitHub. For the optimal experience, it is recommended to run the Jupyter notebooks locally in a Jupyter environment. Additionally, Gradio APIs may require a live Python kernel to function properly.
+
+### Note on Collapsed Cells and Screenshots
+
+To enhance readability, several cells in the Jupyter notebooks have been collapsed for a more concise and organized view. However, when viewing the notebooks on GitHub, all cells may appear expanded.
+
+Additionally, for a visual representation of the Gradio demo in action, a screenshot has been provided in the repository. You can find it in the [Repository](path/to/screenshot/folder).
+
+For the most accurate representation of the interactive elements and the Gradio demo, it is recommended to run the Jupyter notebooks locally in a Jupyter environment.
+
 ### Prerequisites
 
 - Python 3.x
